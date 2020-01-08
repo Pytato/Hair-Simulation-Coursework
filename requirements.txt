@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+pathos
+slugify
+tqdm
